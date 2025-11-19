@@ -1,6 +1,6 @@
 ---
 title: "Workshop"
-date: 2025-09-10
+date: 2025-09-16
 weight: 5
 chapter: false
 pre: " <b> 5. </b> "

@@ -1,6 +1,6 @@
 ---
 title: "Báo cáo thực tập"
-date: 2025-09-10
+date: 2025-09-16
 weight: 1
 chapter: false
 ---

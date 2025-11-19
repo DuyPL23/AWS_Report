@@ -1,6 +1,6 @@
 ---
 title : "Mô phỏng On-premises DNS "
-date: 2025-09-10
+date : 2025-09-16
 weight : 4
 chapter : false
 pre : " <b> 5.4.4 </b> "

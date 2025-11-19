@@ -1,6 +1,6 @@
 ---
 title : "Truy cập S3 từ VPC"
-date: 2025-09-10
+date :  2025-09-16 
 weight : 3
 chapter : false
 pre : " <b> 5.3. </b> "

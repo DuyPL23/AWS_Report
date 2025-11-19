@@ -1,6 +1,6 @@
 ---
 title : "Create a gateway endpoint"
-date: 2025-09-10
+date :  2025-09-16 
 weight : 1
 chapter : false
 pre : " <b> 5.3.1 </b> "

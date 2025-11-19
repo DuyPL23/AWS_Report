@@ -1,6 +1,6 @@
 ---
 title: "Internship Report"
-date: 2025-09-10
+date: 2025-09-16
 weight: 1
 chapter: false
 ---
@@ -13,15 +13,15 @@ chapter: false
 {{% /notice %}}
 
 ### Student Information:
-&emsp; **Full Name:** Trần Phát Đạt
+&emsp; **Full Name:** Phạm Lê Duy
 
-&emsp; **Phone Number:** 0985817735
+&emsp; **Phone Number:** 0965717677 
 
-&emsp; **Email:** dattpse182773@fpt.edu.vn
+&emsp; **Email:** tkduyhuy@gmail.com
 
-&emsp; **University:** FPT University
+&emsp; **University:** FPT University 
 
-&emsp; **Major:** Software Engineering
+&emsp; **Major:** Information Technology
 
 &emsp; **Class:** AWS082025
 
@@ -29,9 +29,9 @@ chapter: false
 
 &emsp; **Internship Position:** FCJ Cloud Intern
 
-&emsp; **Internship Duration:** From 08/09/2025 to 04/12/2025
+&emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
 
-![Your profile picture](/images/avatar.png)
+![Your profile picture](/images/avatar1.png)
 
 ### Report Content
 
