@@ -1,9 +1,10 @@
 ---
-title: "Các bài blogs đã dịch"
+title: "Tiêu đề blog"
 date: 2025-09-16
-weight: 3
+weight: 7
 chapter: false
-pre: " <b> 3. </b> "
+pre: "<b> 3. </b>"
+draft: false
 ---
 
 {{% notice warning %}}  

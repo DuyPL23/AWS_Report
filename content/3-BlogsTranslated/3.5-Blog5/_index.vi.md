@@ -1,11 +1,7 @@
 ---
 title: "Blog 5"
 date: 2025-09-16
-<<<<<<< HEAD
 weight: 5
-=======
-weight: 1
->>>>>>> b7de5673aac2db44e5dd308db089903344ed1d89
 chapter: false
 pre: " <b> 3.6. </b> "
 ---
