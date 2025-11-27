@@ -1,10 +1,11 @@
-baseURL = "https://thienluhoan.github.io/workshop-template/"
+baseURL = "https://DuyPL23.github.io/AWS_Report/"
 relativeURLs = true
 canonifyURLs = true
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
-
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true 
 # For search functionality
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
