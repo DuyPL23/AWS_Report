@@ -69,7 +69,7 @@ The system requires a stable internet connection to operate AWS services, includ
 - *Post Deployment*: Research potential development and new features  
 
 ### 6. Budget Estimation  
-See costs on [AWS Pricing Calculator](https://calculator.aws/#/estimate?id=621f38b12a1ef026842ba2ddfe46ff936ed4ab01)  
+See costs on [AWS Pricing Calculator](https://calculator.aws/#/estimate?id=6a8b0970827e19a863c2bfc704a13b136f700574)  
 Or download [budget estimation file](../attachments/budget_estimation.pdf).
 
 *Infrastructure Costs*  

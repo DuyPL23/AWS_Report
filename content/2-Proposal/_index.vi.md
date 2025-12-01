@@ -70,7 +70,7 @@ Dự án gồm 2 phần — xây dựng nền tảng Studying English Website �
 Ước tính ngân sách  
 
 ### 6. Ước tính ngân sách  
-Có thể xem chi phí trên [AWS Pricing Calculator](https://calculator.aws/#/estimate?id=621f38b12a1ef026842ba2ddfe46ff936ed4ab01)  
+Có thể xem chi phí trên [AWS Pricing Calculator](https://calculator.aws/#/estimate?id=6a8b0970827e19a863c2bfc704a13b136f700574)  
 Hoặc tải [tệp ước tính ngân sách](../attachments/budget_estimation.pdf).  
 
 *Chi phí hạ tầng*  
